@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# The files over 100mb
+Content\MyDataPrep\scene_gltf\Textures\*.uasset
